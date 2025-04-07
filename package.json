@@ -1,6 +1,0 @@
-{
-  "name": "vercel-midtrans-handler",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module"
-}
